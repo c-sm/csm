@@ -3,3 +3,10 @@
 haha,你好
 balabalalbalalalbal
 主分支要冲突的内容
+删了这行文字
+
+子分支的内容
+主分支的内容
+准备冲突的内容
+
+上传到GitHub
